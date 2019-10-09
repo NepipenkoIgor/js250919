@@ -1,0 +1,13 @@
+table {
+    margin: auto 60px;
+}
+td, th {
+    border: 1px solid grey;
+}
+th {
+    cursor: pointer;
+}
+
+th:hover {
+    background: yellow;
+}
