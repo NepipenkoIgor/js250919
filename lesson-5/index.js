@@ -77,3 +77,4 @@ function updateCount(el, listContainer) {
         .filter((li) => !li.hasAttribute('hidden'));
     el.innerHTML = list.length
 }
+
