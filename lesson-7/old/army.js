@@ -26,3 +26,5 @@ const army = makeArmy(10);
 army[4]();
 army[9]();
 army[8]();
+
+
